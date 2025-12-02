@@ -2,8 +2,8 @@
 ## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
 ```text
-Name:    Oswald Shilo
-Reg.No:  212223040139
+Name:    Ashwina K N
+Reg.No:  212223230025
 ```
 
 ## 1. Foundational Concepts of Generative AI
